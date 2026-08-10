@@ -13,19 +13,6 @@
     }
   },
   {
-    "path": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4/profile.md",
-    "metadata": {
-      "name": "OPEX",
-      "external_profile_url": "https://forum.sky.money/t/opex-ad-recognition-submission/27630",
-      "address": "0x16A5a76904140e01F31C7e7ABD9fB81988469bA4"
-    },
-    "metrics": {
-      "combined_participation": "11.43%",
-      "communication": "100%",
-      "start_date": "2026-01-21T00:00:00.000Z"
-    }
-  },
-  {
     "path": "0x173a1c04B79Ed9266721c1154dAa29AddC0B9558/profile.md",
     "metadata": {
       "name": "BLUE",
@@ -59,8 +46,8 @@
       "address": "0x550E5EC00B9d26a3517ce772DdFE73e8Ed1672Ad"
     },
     "metrics": {
-      "combined_participation": "72.97%",
-      "communication": "85.19%",
+      "combined_participation": "78.38%",
+      "communication": "86.21%",
       "start_date": "2025-04-30T00:00:00.000Z"
     }
   },
@@ -78,19 +65,6 @@
     }
   },
   {
-    "path": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e/profile.md",
-    "metadata": {
-      "name": "AxisLegati",
-      "external_profile_url": "https://forum.sky.money/t/axislegati-ad-recognition-submission/27677",
-      "address": "0x7bc5a420b6524Fa925F1321A01825438369E3c2e"
-    },
-    "metrics": {
-      "combined_participation": "61.29%",
-      "communication": "5.56%",
-      "start_date": "2026-02-09T00:00:00.000Z"
-    }
-  },
-  {
     "path": "0x8a8D131502bb4868A0777bEf604547A8316a8f11/profile.md",
     "metadata": {
       "name": "Brendan Navigator",
@@ -98,7 +72,7 @@
       "address": "0x8a8D131502bb4868A0777bEf604547A8316a8f11"
     },
     "metrics": {
-      "combined_participation": "90.91%",
+      "combined_participation": "92.86%",
       "communication": "100%",
       "start_date": "2026-03-06T00:00:00.000Z"
     }
@@ -114,19 +88,6 @@
       "combined_participation": "100%",
       "communication": "100%",
       "start_date": "2025-03-25T00:00:00.000Z"
-    }
-  },
-  {
-    "path": "0xead02d18529c10eedd995f760fdf5e380ddf3da6/profile.md",
-    "metadata": {
-      "name": "excel",
-      "external_profile_url": "https://forum.sky.money/t/excel-ad-recognition-submission/26227",
-      "address": "0xead02d18529c10eedd995f760fdf5e380ddf3da6"
-    },
-    "metrics": {
-      "combined_participation": "13.51%",
-      "communication": "100%",
-      "start_date": "2025-04-04T00:00:00.000Z"
     }
   },
   {
